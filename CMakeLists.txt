@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.17)
 
-set(PROJECT_NAME mini_renderer)
+set(PROJECT_NAME vulkan_tutorial)
 set(CMAKE_CXX_STANDARD 17)
 
 
